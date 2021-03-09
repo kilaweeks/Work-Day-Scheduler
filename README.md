@@ -10,7 +10,7 @@ This calendar application shows the current date at the top of the page and nine
 ![Screenshot](assets/img/screenshot2.png)
 
 ## Application
-https://kilaweeks.github.io/Calendar-Scheduling-App
+https://kilaweeks.github.io/Work-Day-Scheduler
 
 ## Technologies
 
